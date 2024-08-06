@@ -1,0 +1,1 @@
+#A Shell Script to change brightness in linux 
